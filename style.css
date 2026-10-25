@@ -1,3 +1,7 @@
+html {
+  background: #1e1e2e;
+  color-scheme: dark;
+}
 @font-face {
   font-family: iosevka-aile;
   src: url("./fonts/iosevka-aile.woff2") format("woff2");
@@ -16,10 +20,11 @@ body {
   font-family: iosevka-aile,system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
   background: linear-gradient(45deg,rgba(49, 50, 68, 1) 0%, rgba(30, 30, 46, 1) 50%, rgba(24, 24, 37, 1) 100%);
   color: #cdd6f4;
-  animation: fade .4s ease-in;
+  
 }
 
 main {
+  animation: fade .4s ease-in;
   max-width: 32rem;
   padding: 2.5rem;
   background: #181825;
