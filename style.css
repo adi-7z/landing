@@ -1,6 +1,6 @@
 @font-face {
   font-family: iosevka-aile;
-  src: url("./fonts/iosevka-aile-regular.ttc");
+  src: url("./fonts/iosevka-aile.woff2") format("woff2");
 }
 
 body {
