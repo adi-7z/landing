@@ -1,7 +1,3 @@
-html {
-  background: #1e1e2e;
-  color-scheme: dark;
-}
 @font-face {
   font-family: iosevka-aile;
   src: url("./fonts/iosevka-aile.woff2") format("woff2");
