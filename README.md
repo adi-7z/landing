@@ -1,0 +1,3 @@
+- this is my first shot at making a personal site on my own, and it's not vibecoded :)
+- I learnt a few things about css and html, and uploading static github pages using github actions.
+- part of pixl.hackclub event.
